@@ -156,6 +156,10 @@ body {
   width: 80%;
 }
 
+.the-video {
+  width: 85%;
+}
+
 .carousel-caption.custom-caption {
 background-color: rgba(0, 0, 0, 0.5); 
 color: #fff;
