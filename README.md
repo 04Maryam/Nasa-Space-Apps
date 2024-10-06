@@ -16,6 +16,12 @@
 - Bootstrap 5
 - NASA's Earth Data
 
+## Screenshots
+![Home](assets/images/home.png)
+![About us](assets/images/aboutus.png)
+![Video](assets/images/video.png)
+
+
 ## Installation
 To set up the project locally, follow these steps:
 1. Clone the repository:
