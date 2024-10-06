@@ -17,9 +17,9 @@
 - NASA's Earth Data
 
 ## Screenshots
-![Home](assets/images/home.png)
-![About us](assets/images/aboutus.png)
-![Video](assets/images/video.png)
+![Home](Nasa space apps/assets/images/home.png)
+![About us](Nasa space apps/assets/images/aboutus.png)
+![Video](Nasa space apps/assets/images/video.png)
 
 
 ## Installation
